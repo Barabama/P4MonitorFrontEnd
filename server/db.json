@@ -1,0 +1,40 @@
+{
+  "nodes": [
+    {
+      "id": 1,
+      "label": "PC1",
+      "image": "imgPC",
+      "shape": "image"
+    },
+    {
+      "id": 2,
+      "label": "S1",
+      "image": "imgRouter",
+      "shape": "image"
+    },
+    {
+      "id": 3,
+      "label": "S2",
+      "image": "imgRouter",
+      "shape": "image"
+    },
+    {
+      "id": 4,
+      "label": "S3",
+      "image": "imgRouter",
+      "shape": "image"
+    },
+    {
+      "id": 5,
+      "label": "S4",
+      "image": "imgRouter",
+      "shape": "image"
+    },
+    {
+      "id": 6,
+      "label": "PC2",
+      "image": "imgPC",
+      "shape": "image"
+    }
+  ]
+}

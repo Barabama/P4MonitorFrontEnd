@@ -1,0 +1,9 @@
+html {
+    font-size: 10px;
+}
+@font-face {
+    font-family: 'led';
+    src:url("../font-family/DS-DIGII.ttf");
+    font-weight: bold;
+    font-style: normal;
+}
